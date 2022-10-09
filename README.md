@@ -2,6 +2,5 @@
 Efficient Water Quality Analysis &amp; Prediction using Machine Learning
 
 Leader- Shivani I
-Member1- Vaishnavi V
-Member2-Shirley Praylin G
-Member3-Sindhuja S
+
+Team Members-Vaishnavi V,Shirley Praylin G,Sindhuja S
